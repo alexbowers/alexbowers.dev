@@ -25,8 +25,8 @@
                     </a>
 
                     <nav class="inline-flex items-baseline font-medium antialiased mt-4 sm:mt-0">
-                        <a class="text-red-light hover:text-red-lighter no-underline ml-4 md:ml-8" href="https://github.com/alexbowers">GitHub</a>
                         <a class="text-red-light hover:text-red-lighter no-underline ml-4 md:ml-8" href="https://twitter.com/bowersbros">Twitter</a>
+                        <a class="text-red-light hover:text-red-lighter no-underline ml-4 md:ml-8" href="https://github.com/alexbowers">GitHub</a>
                     </nav>
                 </header>
             </div>
